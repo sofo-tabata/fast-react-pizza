@@ -2,11 +2,11 @@
 
 [![image](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/c58f1eee-03c3-46fc-bdaa-4b0bf32628ac)](https://fast-react-pizza-project-app.vercel.app/)
 
-<img src="https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/1fc8620e-2230-4d9b-ba42-40028bcf937d" width="270">
+<img src="https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/1fc8620e-2230-4d9b-ba42-40028bcf937d" width="273">
 
-<img src="https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/644e396c-a9b2-4739-a27c-1ac1944a0d6f" width="270">
+<img src="https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/644e396c-a9b2-4739-a27c-1ac1944a0d6f" width="273">
 
-<img src="https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/e6410a8c-025d-4858-a618-ff38ac284164" width="270">
+<img src="https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/e6410a8c-025d-4858-a618-ff38ac284164" width="273">
 
 # About
 
