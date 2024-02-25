@@ -2,6 +2,7 @@
 
 [![image](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/c58f1eee-03c3-46fc-bdaa-4b0bf32628ac)](https://fast-react-pizza-project-app.vercel.app/)
 
+
 # About
 
 Order the Best Pizza with Fast React Pizza Co.! 😏
@@ -13,6 +14,12 @@ Order the Best Pizza with Fast React Pizza Co.! 😏
 # Getting Started
 
 ![animated-chock-coding-c78f6elj32sfoi8q](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/36cf410e-0957-4806-a4b6-5b8538cdf0d6)
+![1](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/bafc4143-d52f-4cd3-8a67-cdbbacfcfd4e) 
+![2](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/427d7b6b-9a06-4cdf-94e9-d89f6ec06240)
+![3](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/910c939f-ca35-4b18-a61d-9bcf9e3499f3)
+![4](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/644e396c-a9b2-4739-a27c-1ac1944a0d6f)
+![5](https://github.com/sofo-tabata/fast-react-pizza/assets/135848019/e6410a8c-025d-4858-a618-ff38ac284164)
+
 
 1. First of all you need to clone app repository from github:
    
